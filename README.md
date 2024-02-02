@@ -4,7 +4,7 @@
 
 This repository contains code introduced in the following paper:
 
-- Super-SCOTUS: A multi-sourced dataset for the Supreme Court of the US 
+- [Super-SCOTUS: A multi-sourced dataset for the Supreme Court of the US](https://aclanthology.org/2023.nllp-1.20.pdf)
 
 - Biaoyan Fang, Trevor Cohn, Timothy Baldwin, and Lea Frermann 
 
